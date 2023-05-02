@@ -75,7 +75,6 @@ svg {
 
 .media-group {
     grid-auto-columns: 1fr;
-    border: solid 3px limegreen;
 }
 
 .media-element {
